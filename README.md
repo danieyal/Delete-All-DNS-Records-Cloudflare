@@ -28,7 +28,7 @@ To get a local copy up and running, follow these simple steps.
 
 2. Navigate to the project directory:
    ```sh
-   cd cloudflare-dns-deletion-script
+   cd Delete-All-DNS-Records-Cloudflare
    ```
 
 3. Install the required Python packages:
